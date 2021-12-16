@@ -76,13 +76,11 @@ body {
 }
 
 .pawn-text {
-  width: 80vw;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  margin-left: 10vw;
-  background-color: #3C1053FF;
-  color: white;
+  font-size:1.2rem;
   font-family: 'Gloria Hallelujah', cursive;
+  padding-left: 5% !important;
+  padding-right:5% !important;
+  color: white
 }
 
 .knight-container {
@@ -100,13 +98,11 @@ body {
 }
 
 .knight-text {
-  width: 80vw;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  margin-left: 10vw;
-  background-color: #3C1053FF;
-  color: white;
+  font-size:1.2rem;
   font-family: 'Gloria Hallelujah', cursive;
+  padding-left: 5% !important;
+  padding-right:5% !important;
+  color: white
 }
 
 .bishop-container {
@@ -124,13 +120,11 @@ body {
 }
 
 .bishop-text {
-  width: 80vw;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  margin-left: 10vw;
-  background-color: #3C1053FF;
-  color: white;
+  font-size:1.2rem;
   font-family: 'Gloria Hallelujah', cursive;
+  padding-left: 5% !important;
+  padding-right:5% !important;
+  color: white
 }
 
 .rook-container {
@@ -148,13 +142,11 @@ body {
 }
 
 .rook-text {
-  width: 80vw;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  margin-left: 10vw;
-  background-color: #3C1053FF;
-  color: white;
+  font-size:1.2rem;
   font-family: 'Gloria Hallelujah', cursive;
+  padding-left: 5% !important;
+  padding-right:5% !important;
+  color: white
 }
 
 .queen-container {
@@ -172,13 +164,11 @@ body {
 }
 
 .queen-text {
-  width: 80vw;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  margin-left: 10vw;
-  background-color: #3C1053FF;
-  color: white;
+  font-size:1.2rem;
   font-family: 'Gloria Hallelujah', cursive;
+  padding-left: 5% !important;
+  padding-right:5% !important;
+  color: white
 }
 
 .king-container {
@@ -196,13 +186,11 @@ body {
 }
 
 .king-text {
-  width: 80vw;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  margin-left: 10vw;
-  background-color: #3C1053FF;
-  color: white;
+  font-size:1.2rem;
   font-family: 'Gloria Hallelujah', cursive;
+  padding-left: 5% !important;
+  padding-right:5% !important;
+  color: white
 }
 
 .contact-me-container{
